@@ -1,49 +1,160 @@
-# Italian translation of PACKAGE.
-# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Stefano Fabri <bluefuture@email.it>, 2005.
-# , fuzzy
 # 
-# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-10-07 00:16+0200\n"
-"PO-Revision-Date: 2005-10-07 00:42+0200\n"
-"Last-Translator: Stefano Fabri <bluefuture@email.it>\n"
-"Language-Team: Italian <it@li.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/Perberos/Mate-Desktop-Environment/issues\n"
+"POT-Creation-Date: 2012-01-03 15:42+0100\n"
+"PO-Revision-Date: 2012-01-03 14:47+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Italian (http://www.transifex.net/projects/p/MATE/team/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../src/caja-image-converter.c:109
+#: ../data/caja-image-resize.ui.h:1
+msgid ".resized"
+msgstr ".ridimensionata"
+
+#: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
+msgid "<b>Filename</b>"
+msgstr "<b>Nome file</b>"
+
+#: ../data/caja-image-resize.ui.h:3
+msgid "<b>Image Size</b>"
+msgstr "<b>Dimensione immagine</b>"
+
+#: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
+msgid "Append"
+msgstr "Appendi"
+
+#: ../data/caja-image-resize.ui.h:5
+msgid "Custom size:"
+msgstr "Dimensione personalizzata:"
+
+#: ../data/caja-image-resize.ui.h:6
+msgid "Height:"
+msgstr "Altezza:"
+
+#: ../data/caja-image-resize.ui.h:7
+msgid "Resize Images"
+msgstr "Ridimensiona immagini"
+
+#: ../data/caja-image-resize.ui.h:8
+msgid "Resize in place"
+msgstr "Ridimensiona sul posto"
+
+#: ../data/caja-image-resize.ui.h:9
+msgid "Scale:"
+msgstr "Scala:"
+
+#: ../data/caja-image-resize.ui.h:10
+msgid "Select a size:"
+msgstr "Seleziona una dimensione:"
+
+#: ../data/caja-image-resize.ui.h:11
+msgid "Width:"
+msgstr "Larghezza:"
+
+#: ../data/caja-image-resize.ui.h:12
+msgid "_Resize"
+msgstr "_Ridimensiona"
+
+#: ../data/caja-image-resize.ui.h:13
+msgid "percent"
+msgstr "percentuale"
+
+#: ../data/caja-image-resize.ui.h:14
+msgid "pixels"
+msgstr "pixel"
+
+#: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
+msgid "to file title"
+msgstr "al nome file"
+
+#: ../data/caja-image-rotate.ui.h:1
+msgid ".rotated"
+msgstr ".ruotata"
+
+#: ../data/caja-image-rotate.ui.h:3
+msgid "<b>Image Rotation</b>"
+msgstr "<b>Rotazione immagine</b>"
+
+#: ../data/caja-image-rotate.ui.h:5
+msgid "Custom angle:"
+msgstr "Angolo personalizzato:"
+
+#: ../data/caja-image-rotate.ui.h:6
+msgid "Rotate Images"
+msgstr "Ruota immagini"
+
+#: ../data/caja-image-rotate.ui.h:7
+msgid "Rotate in place"
+msgstr "Ruota sul posto"
+
+#: ../data/caja-image-rotate.ui.h:8
+msgid "Select an angle:"
+msgstr "Seleziona un angolo:"
+
+#: ../data/caja-image-rotate.ui.h:9
+msgid "_Rotate"
+msgstr "_Ruota"
+
+#: ../data/caja-image-rotate.ui.h:10
+msgid "degrees clockwise"
+msgstr "gradi orari"
+
+#: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
 msgstr "_Ridimensionare le Immagini.."
 
-#: ../src/caja-image-converter.c:110
+#: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
 msgstr "Ridimensionare tutte le immagini selezionate"
 
-#: ../src/caja-image-resizer.c:219
+#: ../src/caja-image-converter.c:130
+msgid "Ro_tate Images..."
+msgstr "Ruo_ta immagini..."
+
+#: ../src/caja-image-converter.c:131
+msgid "Rotate each selected image"
+msgstr "Ruota ogni immagine selezionata"
+
+#: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
-msgstr "_Saltare"
+msgstr "_Salta"
 
-#: ../src/caja-image-resizer.c:221
+#: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
-msgstr "_Riprovare"
+msgstr "_Riprova"
 
-#: ../src/caja-image-resizer.c:340
+#: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
 msgstr "Ridimensionamento immagine: %d di %d"
 
-#: ../src/caja-image-resizer.c:345
+#: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
 msgstr "<i>Ridimensionamento di \"%s\"</i>"
 
-#: ../src/caja-image-resizer.c:363
+#: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
 msgstr "Inserire un suffisso valido al nome file!"
+
+#: ../src/caja-image-rotator.c:290
+#, c-format
+msgid "Rotating image: %d of %d"
+msgstr "Rotazione immagine: %d di %d"
+
+#: ../src/caja-image-rotator.c:295
+#, c-format
+msgid "<i>Rotating \"%s\"</i>"
+msgstr "<i>Rotazione di \"%s\"</i>"
+
 
