@@ -1,0 +1,8 @@
+[encoding: UTF-8]
+# List of source files which contain translatable strings.
+[type: gettext/glade]data/caja-image-resize.ui
+[type: gettext/glade]data/caja-image-rotate.ui
+
+src/caja-image-converter.c
+src/caja-image-resizer.c
+src/caja-image-rotator.c

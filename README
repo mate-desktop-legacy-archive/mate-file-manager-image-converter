@@ -1,0 +1,13 @@
+Caja-Image-Converter
+========================
+
+The Caja-Image-Converter extension allows you to resize/rotate images from Caja.
+
+Hacking:
+========
+
+n-i-c can be check out with the following command:
+
+git clone git://git.gnome.org/nautilus-image-converter
+
+Patches welcomed!
