@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/Perberos/Mate-Desktop-Environment/issues\n"
 "POT-Creation-Date: 2012-01-03 15:42+0100\n"
-"PO-Revision-Date: 2012-01-03 14:47+0000\n"
+"PO-Revision-Date: 2012-01-03 15:55+0000\n"
 "Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/MATE/team/it/)\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr "gradi orari"
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "_Ridimensionare le Immagini.."
+msgstr "_Ridimensiona immagini.."
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
