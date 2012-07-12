@@ -1,0 +1,161 @@
+========== bg.po ==========
+# Russian translation.
+# Copyright (C) 2005 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+#
+#
+
+
+
+
+========== ca.po ==========
+# Catalan translation for caja-image-converter
+# Copyright (C) 2004-2006 Jürg Billeter
+# This file is distributed under the same license as caja-image-converter.
+# Siegfried-Angel Gevatter Pujals <rainct@ubuntu.com>, 2008
+#
+
+
+
+
+========== cs.po ==========
+# Czech translation of caja-image-converter.
+# Copyright (C) 2007 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# 
+
+
+
+
+========== de.po ==========
+# German translation of PACKAGE.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Jens Wießer <info@carbon4.de>, 2008.
+# , fuzzy
+# 
+# 
+
+
+
+
+========== es.po ==========
+# Spanish translation of PACKAGE.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Stephen Denham <stephen.denham@gmail.com>, 2007.
+# , fuzzy
+# 
+# 
+
+
+
+
+========== fi.po ==========
+# translation of caja-image-converter.po to Finnish
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Antti Sokero <antti.sokero@opinsys.fi>, 2007.
+
+
+
+
+========== fr.po ==========
+# French translation of caja-image-converter.
+# Copyright (C) 2004 - 2006 Jürg Billeter <j@bitron.ch>
+# This file is distributed under the same license as the caja-image-converter package.
+# Sylvain Archenault <sylvain.archenault@laposte.net>, 2006.
+# Julien Valroff <julien@kirya.net>, 2007
+# 
+# 
+
+
+
+
+========== he.po ==========
+# Hebrew translations for PACKAGE package.
+# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2011.
+#
+
+
+
+
+========== it.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Stefano Fabri <bluefuture@email.it>, 2005
+
+
+
+========== ja.po ==========
+# caja-image-converter ja.po.
+# Copyright (C) 2005 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# Kazutaka HARADA <kazutaka802@yahoo.co.jp>, 2006.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2007.
+#
+
+
+
+
+========== nl.po ==========
+# Dutch translation of caja-image-converter.
+# Copyright (C) 2006 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# Sylvain Archenault <sylvain.archenault@laposte.net>, 2006.
+# , fuzzy
+# 
+# 
+
+
+
+
+========== pl.po ==========
+# Polish translation of caja-image-converter.
+# Copyright (C) 2006 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# Sylvain Archenault <sylvain.archenault@laposte.net>, 2006.
+#
+#
+
+
+
+
+========== pt_BR.po ==========
+# Brazilian Portuguese translation of caja-image-converter.
+# Copyright (C) 2005 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# Washington Lins <washington-lins@uol.com.br>, 2007.
+# , fuzzy
+#
+#
+
+
+
+
+========== ru.po ==========
+# Russian translation.
+# Copyright (C) 2005 THE caja-image-converter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caja-image-converter package.
+# 
+# 
+
+
+
+
+========== sv.po ==========
+# Swedish translation for caja-image-converter.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the caja-image-converter package.
+# Daniel Nylander <po@danielnylander.se>, 2007.
+#
+
+
+
+
