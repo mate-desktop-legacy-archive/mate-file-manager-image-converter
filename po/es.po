@@ -1,135 +1,159 @@
-# Spanish translation of PACKAGE.
-# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Stephen Denham <stephen.denham@gmail.com>, 2007.
-# , fuzzy
 # 
-# 
+# Translators:
+#   <lutusq@lutusq.jazztel.es>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-09-18 00:16+0200\n"
-"PO-Revision-Date: 2007-09-18 00:42+0200\n"
-"Last-Translator:Stephen Denham <stephen.denham@gmail.com>\n"
-"Language-Team: Italian <it@li.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-01-03 15:42+0100\n"
+"PO-Revision-Date: 2012-04-15 18:06+0000\n"
+"Last-Translator: Lluís Tusquellas <lutusq@lutusq.jazztel.es>\n"
+"Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../src/caja-image-converter.c:109
+#: ../data/caja-image-resize.ui.h:1
+msgid ".resized"
+msgstr ".redimensionado"
+
+#: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
+msgid "<b>Filename</b>"
+msgstr "<b>Nombre de fichero</b>"
+
+#: ../data/caja-image-resize.ui.h:3
+msgid "<b>Image Size</b>"
+msgstr "<b>Tamaño de imagen</b>"
+
+#: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
+msgid "Append"
+msgstr "Adjuntar"
+
+#: ../data/caja-image-resize.ui.h:5
+msgid "Custom size:"
+msgstr "Tamaño personalizado:"
+
+#: ../data/caja-image-resize.ui.h:6
+msgid "Height:"
+msgstr "Altura:"
+
+#: ../data/caja-image-resize.ui.h:7
+msgid "Resize Images"
+msgstr "Redimensionar imagenes"
+
+#: ../data/caja-image-resize.ui.h:8
+msgid "Resize in place"
+msgstr "No cambiar el nombre"
+
+#: ../data/caja-image-resize.ui.h:9
+msgid "Scale:"
+msgstr "Graduar:"
+
+#: ../data/caja-image-resize.ui.h:10
+msgid "Select a size:"
+msgstr "Seleccionar un tamaño:"
+
+#: ../data/caja-image-resize.ui.h:11
+msgid "Width:"
+msgstr "Anchura:"
+
+#: ../data/caja-image-resize.ui.h:12
+msgid "_Resize"
+msgstr "_Redimensionar"
+
+#: ../data/caja-image-resize.ui.h:13
+msgid "percent"
+msgstr "por cien"
+
+#: ../data/caja-image-resize.ui.h:14
+msgid "pixels"
+msgstr "pixels"
+
+#: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
+msgid "to file title"
+msgstr "al nombre de fichero"
+
+#: ../data/caja-image-rotate.ui.h:1
+msgid ".rotated"
+msgstr ".rotado"
+
+#: ../data/caja-image-rotate.ui.h:3
+msgid "<b>Image Rotation</b>"
+msgstr "<b>Rotación de imagen</b>"
+
+#: ../data/caja-image-rotate.ui.h:5
+msgid "Custom angle:"
+msgstr "Tamaño angulo:"
+
+#: ../data/caja-image-rotate.ui.h:6
+msgid "Rotate Images"
+msgstr "Rotar imagenes"
+
+#: ../data/caja-image-rotate.ui.h:7
+msgid "Rotate in place"
+msgstr "No cambiar el nombre"
+
+#: ../data/caja-image-rotate.ui.h:8
+msgid "Select an angle:"
+msgstr "Seleccionar un angulo:"
+
+#: ../data/caja-image-rotate.ui.h:9
+msgid "_Rotate"
+msgstr "_Rotar"
+
+#: ../data/caja-image-rotate.ui.h:10
+msgid "degrees clockwise"
+msgstr "gradas a la derecha"
+
+#: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
 msgstr "_Redimensionar imagenes..."
 
-#: ../src/caja-image-converter.c:110
+#: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
 msgstr "Redimensionar cada imagen seleccionado"
 
-#: ../src/caja-image-resizer.c:219
+#: ../src/caja-image-converter.c:130
+msgid "Ro_tate Images..."
+msgstr "Ro_tar imagenes..."
+
+#: ../src/caja-image-converter.c:131
+msgid "Rotate each selected image"
+msgstr "Girar cada imagen seleccionada"
+
+#: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
 msgstr "_Saltar"
 
-#: ../src/caja-image-resizer.c:221
+#: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
 msgstr "_Reintentar"
 
-#: ../src/caja-image-resizer.c:340
+#: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
 msgstr "Redimensionando imagen: %d di %d"
 
-#: ../src/caja-image-resizer.c:345
+#: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
 msgstr "<i>Redimensionando \"%s\"</i>"
 
-#: ../src/caja-image-resizer.c:363
+#: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
 msgstr "Introduzca un sufijo valido"
 
-#: ../src/caja-image-resize.glade.h:1
-msgid ".resized"
-msgstr ".redimensionado"
+#: ../src/caja-image-rotator.c:290
+#, c-format
+msgid "Rotating image: %d of %d"
+msgstr "Girar la imagen: %d de %d"
 
-#: ../src/caja-image-resize.glade.h:2
-msgid "<b>Filename</b>"
-msgstr "<b>Nombre de fichero</b>"
-
-#: ../src/caja-image-resize.glade.h:3
-msgid "<b>Image Size</b>"
-msgstr "<b>Tamaño de imagen</b>"
-
-#: ../src/caja-image-resize.glade.h:4
-msgid "Append"
-msgstr "Adjuntar"
-
-#: ../src/caja-image-resize.glade.h:5
-msgid "Custom size:"
-msgstr "Tamaño personalizado:"
-
-#: ../src/caja-image-resize.glade.h:6
-msgid "Height:"
-msgstr "Altura:"
-
-#: ../src/caja-image-resize.glade.h:7
-msgid "Resize Images"
-msgstr "Redimensionar imagenes"
-
-#: ../src/caja-image-resize.glade.h:8
-msgid "Resize in place"
-msgstr "No cambiar el nombre"
-
-#: ../src/caja-image-resize.glade.h:9
-msgid "Select a size:"
-msgstr "Seleccionar un tamaño:"
-
-#: ../src/caja-image-resize.glade.h:10
-msgid "Width:"
-msgstr "Anchura:"
-
-#: ../src/caja-image-resize.glade.h:11
-msgid "pixels"
-msgstr "pixels"
-
-#: ../src/caja-image-resize.glade.h:12
-msgid "to file title"
-msgstr "al nombre de fichero"
-
-msgid "Scale:"
-msgstr "Graduar:"
-
-msgid "_Resize"
-msgstr "_Redimensionar"
-
-msgid "percent"
-msgstr "por cien"
-
-msgid "Ro_tate Images..."
-msgstr "Ro_tar imagenes..."
-
-msgid "Rotate Images"
-msgstr "Rotar imagenes"
-
-msgid "Select an angle:"
-msgstr "Seleccionar un angulo:"
-
-msgid "Custom angle:"
-msgstr "Tamaño angulo:"
-
-msgid "degrees clockwise"
-msgstr "gradas a la derecha"
-
-msgid "clockwise"
-msgstr "a la derecha"
-
-msgid "Rotate in place"
-msgstr "No cambiar el nombre"
-
-msgid "<b>Image Rotation</b>"
-msgstr "<b>Rotación de imagen</b>"
-
-msgid "_Rotate"
-msgstr "_Rotar"
-
-msgid ".rotated"
-msgstr ".rotado"
+#: ../src/caja-image-rotator.c:295
+#, c-format
+msgid "<i>Rotating \"%s\"</i>"
+msgstr "<i>Girar \"%s\"</i>"

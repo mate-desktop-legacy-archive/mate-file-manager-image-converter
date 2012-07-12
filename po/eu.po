@@ -3,157 +3,157 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Alexei Sorokin <sor.alexei@hotbox.ru>, 2012.
+# Asier Iturralde Sarasola <asier.iturralde@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-01-03 15:42+0100\n"
-"PO-Revision-Date: 2012-04-17 15:32+0000\n"
-"Last-Translator: Alexei Sorokin <sor.alexei@hotbox.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/MATE/language/ru/)\n"
+"PO-Revision-Date: 2012-01-06 13:30+0000\n"
+"Last-Translator: Asier Iturralde Sarasola <asier.iturralde@gmail.com>\n"
+"Language-Team: Basque (http://www.transifex.com/projects/p/MATE/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../data/caja-image-resize.ui.h:1
 msgid ".resized"
-msgstr ".масштабированное"
+msgstr ".tamainaz_aldatua"
 
 #: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
 msgid "<b>Filename</b>"
-msgstr "<b>Название Файла</b>"
+msgstr "<b>Fitxategi-izena</b>"
 
 #: ../data/caja-image-resize.ui.h:3
 msgid "<b>Image Size</b>"
-msgstr "<b>Размер Изображения</b>"
+msgstr "<b>Irudiaren tamaina</b>"
 
 #: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
 msgid "Append"
-msgstr "Добавить"
+msgstr "Erantsi"
 
 #: ../data/caja-image-resize.ui.h:5
 msgid "Custom size:"
-msgstr "Установка размера:"
+msgstr "Tamaina pertsonalizatua:"
 
 #: ../data/caja-image-resize.ui.h:6
 msgid "Height:"
-msgstr "Высота:"
+msgstr "Altuera:"
 
 #: ../data/caja-image-resize.ui.h:7
 msgid "Resize Images"
-msgstr "Мас_штабировать изображения"
+msgstr "Aldatu irudien tamaina"
 
 #: ../data/caja-image-resize.ui.h:8
 msgid "Resize in place"
-msgstr "Масштабировать и заменить файлы"
+msgstr "Gainidatzi jatorrizkoa tamainaz aldatutakoarekin"
 
 #: ../data/caja-image-resize.ui.h:9
 msgid "Scale:"
-msgstr "Масштаб:"
+msgstr "Eskala:"
 
 #: ../data/caja-image-resize.ui.h:10
 msgid "Select a size:"
-msgstr "Выберите размер:"
+msgstr "Hautatu tamaina bat:"
 
 #: ../data/caja-image-resize.ui.h:11
 msgid "Width:"
-msgstr "Ширина:"
+msgstr "Zabalera:"
 
 #: ../data/caja-image-resize.ui.h:12
 msgid "_Resize"
-msgstr "_Изменить размер"
+msgstr "_Aldatu tamaina"
 
 #: ../data/caja-image-resize.ui.h:13
 msgid "percent"
-msgstr "процент"
+msgstr "ehunekoa"
 
 #: ../data/caja-image-resize.ui.h:14
 msgid "pixels"
-msgstr "пикселей"
+msgstr "pixelak"
 
 #: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
 msgid "to file title"
-msgstr "к названию файла"
+msgstr "fitxategi-izenari"
 
 #: ../data/caja-image-rotate.ui.h:1
 msgid ".rotated"
-msgstr ".перевернут"
+msgstr ".biratua"
 
 #: ../data/caja-image-rotate.ui.h:3
 msgid "<b>Image Rotation</b>"
-msgstr "<b>Вращение изображения</b>"
+msgstr "<b>Irudiaren biraketa</b>"
 
 #: ../data/caja-image-rotate.ui.h:5
 msgid "Custom angle:"
-msgstr "Пользовательский угол:"
+msgstr "Angelu pertsonalizatua:"
 
 #: ../data/caja-image-rotate.ui.h:6
 msgid "Rotate Images"
-msgstr "Вращать изображения"
+msgstr "Biratu irudiak"
 
 #: ../data/caja-image-rotate.ui.h:7
 msgid "Rotate in place"
-msgstr "Поворот на месте"
+msgstr "Gainidatzi jatorrizkoa biratutakoarekin"
 
 #: ../data/caja-image-rotate.ui.h:8
 msgid "Select an angle:"
-msgstr "Выберите угол:"
+msgstr "Hautatu angelu bat:"
 
 #: ../data/caja-image-rotate.ui.h:9
 msgid "_Rotate"
-msgstr "_Вращать"
+msgstr "_Biratu"
 
 #: ../data/caja-image-rotate.ui.h:10
 msgid "degrees clockwise"
-msgstr "градусов по часовой"
+msgstr "graduak erlojuaren noranzkoan"
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "Мас_штабировать изображения..."
+msgstr "_Aldatu tamainaz irudiak..."
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
-msgstr "Масштабировать все выбранные изображения"
+msgstr "Aldatu tamainaz hautatutako irudi bakoitza"
 
 #: ../src/caja-image-converter.c:130
 msgid "Ro_tate Images..."
-msgstr "Вр_ащать изображения..."
+msgstr "_Biratu irudiak..."
 
 #: ../src/caja-image-converter.c:131
 msgid "Rotate each selected image"
-msgstr "Вращать каждое выбранное изображение"
+msgstr "Biratu hautatutako irudi bakoitza"
 
 #: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
-msgstr "_Пропустить"
+msgstr "_Saltatu"
 
 #: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
-msgstr "По_вторить"
+msgstr "_Saiatu berriro"
 
 #: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
-msgstr "Масштабируется изображение: %d из %d"
+msgstr "Irudia tamainaz aldatzen: %d / %d"
 
 #: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
-msgstr "<i>Масштабирование \"%s\"</i>"
+msgstr "<i>\"%s\" tamainaz aldatzen</i>"
 
 #: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
-msgstr "Пожалуйста, введите действительное расширение для файла!"
+msgstr "Mesedez, sartu baliozko fitxategi-izen atzizki bat!"
 
 #: ../src/caja-image-rotator.c:290
 #, c-format
 msgid "Rotating image: %d of %d"
-msgstr "Вращение изображения: %d от %d"
+msgstr "Irudia biratzen: %d / %d"
 
 #: ../src/caja-image-rotator.c:295
 #, c-format
 msgid "<i>Rotating \"%s\"</i>"
-msgstr "<i>Вращение «%s»</i>"
+msgstr "<i>\"%s\" biratzen</i>"

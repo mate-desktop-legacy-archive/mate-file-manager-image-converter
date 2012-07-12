@@ -1,95 +1,160 @@
-# Polish translation of caja-image-converter.
-# Copyright (C) 2006 THE caja-image-converter'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the caja-image-converter package.
-# Sylvain Archenault <sylvain.archenault@laposte.net>, 2006.
-#
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Bogusław Bochyński <penknife1@gmail.com>, 2012.
+# Robert Strojec <ross606@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: caja-image-converter 0.0.5\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-06-25 15:39+0200\n"
-"PO-Revision-Date: 2007-07-11 20:07+0200\n"
-"Last-Translator: Piotr Szotkowski <shot@hot.pl>\n"
-"Language-Team: Polish\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-01-03 15:42+0100\n"
+"PO-Revision-Date: 2012-04-26 07:10+0000\n"
+"Last-Translator: Robert Strojec <ross606@gmail.com>\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/MATE/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
-#: ../src/caja-image-converter.c:109
+#: ../data/caja-image-resize.ui.h:1
+msgid ".resized"
+msgstr ".resized"
+
+#: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
+msgid "<b>Filename</b>"
+msgstr "<b>Nazwa pliku</b>"
+
+#: ../data/caja-image-resize.ui.h:3
+msgid "<b>Image Size</b>"
+msgstr "<b>Wielkość obrazka</b>"
+
+#: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
+msgid "Append"
+msgstr "Dołącz"
+
+#: ../data/caja-image-resize.ui.h:5
+msgid "Custom size:"
+msgstr "Własna wielkość:"
+
+#: ../data/caja-image-resize.ui.h:6
+msgid "Height:"
+msgstr "Wysokość:"
+
+#: ../data/caja-image-resize.ui.h:7
+msgid "Resize Images"
+msgstr "Zmień rozmiar obrazków"
+
+#: ../data/caja-image-resize.ui.h:8
+msgid "Resize in place"
+msgstr "Zmień rozmiar oryginału"
+
+#: ../data/caja-image-resize.ui.h:9
+msgid "Scale:"
+msgstr "Skala:"
+
+#: ../data/caja-image-resize.ui.h:10
+msgid "Select a size:"
+msgstr "Wybierz wielkość:"
+
+#: ../data/caja-image-resize.ui.h:11
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: ../data/caja-image-resize.ui.h:12
+msgid "_Resize"
+msgstr "_Zmien rozmiar"
+
+#: ../data/caja-image-resize.ui.h:13
+msgid "percent"
+msgstr "procent"
+
+#: ../data/caja-image-resize.ui.h:14
+msgid "pixels"
+msgstr "pikseli"
+
+#: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
+msgid "to file title"
+msgstr "do nazwy pliku"
+
+#: ../data/caja-image-rotate.ui.h:1
+msgid ".rotated"
+msgstr ".obracać"
+
+#: ../data/caja-image-rotate.ui.h:3
+msgid "<b>Image Rotation</b>"
+msgstr "<b>Obrót Obrazu</b>"
+
+#: ../data/caja-image-rotate.ui.h:5
+msgid "Custom angle:"
+msgstr "Dostosuj kąt:"
+
+#: ../data/caja-image-rotate.ui.h:6
+msgid "Rotate Images"
+msgstr "Obróć obrazek"
+
+#: ../data/caja-image-rotate.ui.h:7
+msgid "Rotate in place"
+msgstr "Obracaj w miejscu"
+
+#: ../data/caja-image-rotate.ui.h:8
+msgid "Select an angle:"
+msgstr "Wybierz kąt:"
+
+#: ../data/caja-image-rotate.ui.h:9
+msgid "_Rotate"
+msgstr "_Obróć"
+
+#: ../data/caja-image-rotate.ui.h:10
+msgid "degrees clockwise"
+msgstr "stopni w prawo"
+
+#: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
 msgstr "_Zmień rozmiar obrazków…"
 
-#: ../src/caja-image-converter.c:110
+#: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
 msgstr "Zmień rozmiar każdego z wybranych obrazków"
 
-#: ../src/caja-image-resizer.c:222
+#: ../src/caja-image-converter.c:130
+msgid "Ro_tate Images..."
+msgstr "_Obróć obrazki..."
+
+#: ../src/caja-image-converter.c:131
+msgid "Rotate each selected image"
+msgstr "Obróć każdy zaznaczony obrazek"
+
+#: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
 msgstr "_Pomiń"
 
-#: ../src/caja-image-resizer.c:224
+#: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
 msgstr "P_onów próbę"
 
-#: ../src/caja-image-resizer.c:343
+#: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
 msgstr "Zmienianie rozmiaru: %d z %d"
 
-#: ../src/caja-image-resizer.c:348
+#: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
 msgstr "<i>Zmiana rozmiaru \"%s\"</i>"
 
-#: ../src/caja-image-resizer.c:366
+#: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
 msgstr "Wprowadź poprawne rozszerzenie pliku!"
 
-#: ../src/caja-image-resize.glade.h:1
-msgid ".resized"
-msgstr ".resized"
+#: ../src/caja-image-rotator.c:290
+#, c-format
+msgid "Rotating image: %d of %d"
+msgstr "Obracanie obrazu: %d z %d"
 
-#: ../src/caja-image-resize.glade.h:2
-msgid "<b>Filename</b>"
-msgstr "<b>Nazwa pliku</b>"
-
-#: ../src/caja-image-resize.glade.h:3
-msgid "<b>Image Size</b>"
-msgstr "<b>Wielkość obrazka</b>"
-
-#: ../src/caja-image-resize.glade.h:4
-msgid "Append"
-msgstr "Dołącz"
-
-#: ../src/caja-image-resize.glade.h:5
-msgid "Custom size:"
-msgstr "Własna wielkość:"
-
-#: ../src/caja-image-resize.glade.h:6
-msgid "Height:"
-msgstr "Wysokość:"
-
-#: ../src/caja-image-resize.glade.h:7
-msgid "Resize Images"
-msgstr "Zmień rozmiar obrazków"
-
-#: ../src/caja-image-resize.glade.h:8
-msgid "Resize in place"
-msgstr "Zmień rozmiar oryginału"
-
-#: ../src/caja-image-resize.glade.h:9
-msgid "Select a size:"
-msgstr "Wybierz wielkość:"
-
-#: ../src/caja-image-resize.glade.h:10
-msgid "Width:"
-msgstr "Szerokość:"
-
-#: ../src/caja-image-resize.glade.h:11
-msgid "pixels"
-msgstr "pikseli"
-
-#: ../src/caja-image-resize.glade.h:12
-msgid "to file title"
-msgstr "do nazwy pliku"
+#: ../src/caja-image-rotator.c:295
+#, c-format
+msgid "<i>Rotating \"%s\"</i>"
+msgstr "<i>Obracanie \"%s\"</i>"
