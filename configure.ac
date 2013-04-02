@@ -1,4 +1,4 @@
-AC_INIT([caja-image-converter], [1.5.0], [http://www.mate-desktop.org], [caja-image-converter])
+AC_INIT([caja-image-converter], [1.6.0], [http://www.mate-desktop.org], [caja-image-converter])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_SRCDIR([Makefile.am])
 AC_CONFIG_HEADERS(config.h)
