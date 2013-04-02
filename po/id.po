@@ -3,157 +3,158 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Alexei Sorokin <sor.alexei@hotbox.ru>, 2012.
+# ibnu daru aji <teratower8@gmail.com>, 2013.
+# Mohamad Hasan Al Banna <se7entime@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-01-03 15:42+0100\n"
-"PO-Revision-Date: 2013-03-11 19:44+0000\n"
-"Last-Translator: Alexei Sorokin <sor.alexei@hotbox.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/MATE/language/ru/)\n"
+"PO-Revision-Date: 2013-03-11 09:58+0000\n"
+"Last-Translator: andjeng <teratower8@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/MATE/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../data/caja-image-resize.ui.h:1
 msgid ".resized"
-msgstr ".масштабированное"
+msgstr "ukuran telah diubah"
 
 #: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
 msgid "<b>Filename</b>"
-msgstr "<b>Название Файла</b>"
+msgstr "<b>Nama berkas</b>"
 
 #: ../data/caja-image-resize.ui.h:3
 msgid "<b>Image Size</b>"
-msgstr "<b>Размер Изображения</b>"
+msgstr "<b>Ukuran Gambar</b>"
 
 #: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
 msgid "Append"
-msgstr "Добавить"
+msgstr "Menambahkan"
 
 #: ../data/caja-image-resize.ui.h:5
 msgid "Custom size:"
-msgstr "Установка размера:"
+msgstr "Ukuran ubahan:"
 
 #: ../data/caja-image-resize.ui.h:6
 msgid "Height:"
-msgstr "Высота:"
+msgstr "Tinggi:"
 
 #: ../data/caja-image-resize.ui.h:7
 msgid "Resize Images"
-msgstr "Мас_штабировать изображения"
+msgstr "Ubah Ukuran Gambar"
 
 #: ../data/caja-image-resize.ui.h:8
 msgid "Resize in place"
-msgstr "Масштабировать и заменить файлы"
+msgstr "Ubah ukuran ditempat"
 
 #: ../data/caja-image-resize.ui.h:9
 msgid "Scale:"
-msgstr "Масштаб:"
+msgstr "Skala:"
 
 #: ../data/caja-image-resize.ui.h:10
 msgid "Select a size:"
-msgstr "Выберите размер:"
+msgstr "Pilih Ukuran:"
 
 #: ../data/caja-image-resize.ui.h:11
 msgid "Width:"
-msgstr "Ширина:"
+msgstr "Lebar:"
 
 #: ../data/caja-image-resize.ui.h:12
 msgid "_Resize"
-msgstr "_Изменить размер"
+msgstr "Ubah Uku_ran"
 
 #: ../data/caja-image-resize.ui.h:13
 msgid "percent"
-msgstr "процент"
+msgstr "persen"
 
 #: ../data/caja-image-resize.ui.h:14
 msgid "pixels"
-msgstr "пикселей"
+msgstr "piksel"
 
 #: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
 msgid "to file title"
-msgstr "к названию файла"
+msgstr "Ke judul berkas"
 
 #: ../data/caja-image-rotate.ui.h:1
 msgid ".rotated"
-msgstr ".перевернут"
+msgstr "Setelah diputar"
 
 #: ../data/caja-image-rotate.ui.h:3
 msgid "<b>Image Rotation</b>"
-msgstr "<b>Вращение изображения</b>"
+msgstr "<b>Pemutaran Citra</b>"
 
 #: ../data/caja-image-rotate.ui.h:5
 msgid "Custom angle:"
-msgstr "Пользовательский угол:"
+msgstr "Sudut Ubahan:"
 
 #: ../data/caja-image-rotate.ui.h:6
 msgid "Rotate Images"
-msgstr "Вращать изображения"
+msgstr "Memutar Citra"
 
 #: ../data/caja-image-rotate.ui.h:7
 msgid "Rotate in place"
-msgstr "Поворот на месте"
+msgstr "Memutar ditempat"
 
 #: ../data/caja-image-rotate.ui.h:8
 msgid "Select an angle:"
-msgstr "Выберите угол:"
+msgstr "Pilih sudut:"
 
 #: ../data/caja-image-rotate.ui.h:9
 msgid "_Rotate"
-msgstr "_Вращать"
+msgstr "Puta_r"
 
 #: ../data/caja-image-rotate.ui.h:10
 msgid "degrees clockwise"
-msgstr "градусов по часовой"
+msgstr "derajat searah jarum jam"
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "Мас_штабировать изображения..."
+msgstr "Ubah Uku_ran Citra..."
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
-msgstr "Масштабировать все выбранные изображения"
+msgstr "Mengubah ukuran tiap citra yang dipilih"
 
 #: ../src/caja-image-converter.c:130
 msgid "Ro_tate Images..."
-msgstr "Вр_ащать изображения..."
+msgstr "Memu_tar citra..."
 
 #: ../src/caja-image-converter.c:131
 msgid "Rotate each selected image"
-msgstr "Вращать каждое выбранное изображение"
+msgstr "Memutar tiap citra yang dipilih"
 
 #: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
-msgstr "_Пропустить"
+msgstr "_Lewati"
 
 #: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
-msgstr "По_вторить"
+msgstr "Ulangi"
 
 #: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
-msgstr "Масштабируется изображение: %d из %d"
+msgstr "Mengubah ukuran citra: %d dari %d"
 
 #: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
-msgstr "<i>Масштабирование \"%s\"</i>"
+msgstr "<i>Mengubah ukuran \"%s\"</i>"
 
 #: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
-msgstr "Пожалуйста, введите действительное расширение для файла!"
+msgstr "Silakan masukkan akhiran nama berkas yang valid!"
 
 #: ../src/caja-image-rotator.c:290
 #, c-format
 msgid "Rotating image: %d of %d"
-msgstr "Вращение изображения: %d от %d"
+msgstr "Memutra citra: %d dari %d"
 
 #: ../src/caja-image-rotator.c:295
 #, c-format
 msgid "<i>Rotating \"%s\"</i>"
-msgstr "<i>Вращение «%s»</i>"
+msgstr "<i>Memutar \"%s\"<i>"

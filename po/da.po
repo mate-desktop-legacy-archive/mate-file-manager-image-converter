@@ -3,157 +3,157 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Alexei Sorokin <sor.alexei@hotbox.ru>, 2012.
+# Joe Hansen <joedalton2@yahoo.dk>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-01-03 15:42+0100\n"
-"PO-Revision-Date: 2013-03-11 19:44+0000\n"
-"Last-Translator: Alexei Sorokin <sor.alexei@hotbox.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/MATE/language/ru/)\n"
+"PO-Revision-Date: 2012-08-01 19:10+0000\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"Language-Team: Danish (http://www.transifex.com/projects/p/MATE/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../data/caja-image-resize.ui.h:1
 msgid ".resized"
-msgstr ".масштабированное"
+msgstr ".størrelsen_ændret"
 
 #: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
 msgid "<b>Filename</b>"
-msgstr "<b>Название Файла</b>"
+msgstr "<b>Filnavn</b>"
 
 #: ../data/caja-image-resize.ui.h:3
 msgid "<b>Image Size</b>"
-msgstr "<b>Размер Изображения</b>"
+msgstr "<b>Billedstørrelse</b>"
 
 #: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
 msgid "Append"
-msgstr "Добавить"
+msgstr "Tilføj"
 
 #: ../data/caja-image-resize.ui.h:5
 msgid "Custom size:"
-msgstr "Установка размера:"
+msgstr "Tilpasset størrelse:"
 
 #: ../data/caja-image-resize.ui.h:6
 msgid "Height:"
-msgstr "Высота:"
+msgstr "Højde:"
 
 #: ../data/caja-image-resize.ui.h:7
 msgid "Resize Images"
-msgstr "Мас_штабировать изображения"
+msgstr "Ændr størrelse på billeder"
 
 #: ../data/caja-image-resize.ui.h:8
 msgid "Resize in place"
-msgstr "Масштабировать и заменить файлы"
+msgstr "Størrelsesændring på plads"
 
 #: ../data/caja-image-resize.ui.h:9
 msgid "Scale:"
-msgstr "Масштаб:"
+msgstr "Skala:"
 
 #: ../data/caja-image-resize.ui.h:10
 msgid "Select a size:"
-msgstr "Выберите размер:"
+msgstr "Vælg en størrelse:"
 
 #: ../data/caja-image-resize.ui.h:11
 msgid "Width:"
-msgstr "Ширина:"
+msgstr "Bredde:"
 
 #: ../data/caja-image-resize.ui.h:12
 msgid "_Resize"
-msgstr "_Изменить размер"
+msgstr "_Ændr størrelse"
 
 #: ../data/caja-image-resize.ui.h:13
 msgid "percent"
-msgstr "процент"
+msgstr "procent"
 
 #: ../data/caja-image-resize.ui.h:14
 msgid "pixels"
-msgstr "пикселей"
+msgstr "billedpunkter"
 
 #: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
 msgid "to file title"
-msgstr "к названию файла"
+msgstr "til filnavn"
 
 #: ../data/caja-image-rotate.ui.h:1
 msgid ".rotated"
-msgstr ".перевернут"
+msgstr ".roteret"
 
 #: ../data/caja-image-rotate.ui.h:3
 msgid "<b>Image Rotation</b>"
-msgstr "<b>Вращение изображения</b>"
+msgstr "<b>Billedrotation</b>"
 
 #: ../data/caja-image-rotate.ui.h:5
 msgid "Custom angle:"
-msgstr "Пользовательский угол:"
+msgstr "Tilpasset vinkel:"
 
 #: ../data/caja-image-rotate.ui.h:6
 msgid "Rotate Images"
-msgstr "Вращать изображения"
+msgstr "Roter billeder"
 
 #: ../data/caja-image-rotate.ui.h:7
 msgid "Rotate in place"
-msgstr "Поворот на месте"
+msgstr "Rotering på plads"
 
 #: ../data/caja-image-rotate.ui.h:8
 msgid "Select an angle:"
-msgstr "Выберите угол:"
+msgstr "Vælg en vinkel:"
 
 #: ../data/caja-image-rotate.ui.h:9
 msgid "_Rotate"
-msgstr "_Вращать"
+msgstr "_Roter"
 
 #: ../data/caja-image-rotate.ui.h:10
 msgid "degrees clockwise"
-msgstr "градусов по часовой"
+msgstr "grader med uret"
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "Мас_штабировать изображения..."
+msgstr "_Ændr størrelse på billeder ..."
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
-msgstr "Масштабировать все выбранные изображения"
+msgstr "Ændr størrelse på hvert valgt billede"
 
 #: ../src/caja-image-converter.c:130
 msgid "Ro_tate Images..."
-msgstr "Вр_ащать изображения..."
+msgstr "Ro_ter billeder ..."
 
 #: ../src/caja-image-converter.c:131
 msgid "Rotate each selected image"
-msgstr "Вращать каждое выбранное изображение"
+msgstr "Roter hvert valgt billede"
 
 #: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
-msgstr "_Пропустить"
+msgstr "_Spring over"
 
 #: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
-msgstr "По_вторить"
+msgstr "_Prøv igen"
 
 #: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
-msgstr "Масштабируется изображение: %d из %d"
+msgstr "Ændrer størrelse: %d af %d"
 
 #: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
-msgstr "<i>Масштабирование \"%s\"</i>"
+msgstr "<i>Ændrer størrelse på \"%s\"</i>"
 
 #: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
-msgstr "Пожалуйста, введите действительное расширение для файла!"
+msgstr "Indtast venligst en gyldig filnavnsendelse!"
 
 #: ../src/caja-image-rotator.c:290
 #, c-format
 msgid "Rotating image: %d of %d"
-msgstr "Вращение изображения: %d от %d"
+msgstr "Roterer billede: %d af %d"
 
 #: ../src/caja-image-rotator.c:295
 #, c-format
 msgid "<i>Rotating \"%s\"</i>"
-msgstr "<i>Вращение «%s»</i>"
+msgstr "<i>Roterer \"%s\"</i>"

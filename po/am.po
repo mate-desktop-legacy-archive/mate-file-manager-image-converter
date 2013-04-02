@@ -3,157 +3,157 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Alexei Sorokin <sor.alexei@hotbox.ru>, 2012.
+# samson <sambelet@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-01-03 15:42+0100\n"
-"PO-Revision-Date: 2013-03-11 19:44+0000\n"
-"Last-Translator: Alexei Sorokin <sor.alexei@hotbox.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/MATE/language/ru/)\n"
+"PO-Revision-Date: 2013-03-03 23:11+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/projects/p/MATE/language/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: ../data/caja-image-resize.ui.h:1
 msgid ".resized"
-msgstr ".масштабированное"
+msgstr ".እንደገና የተመጠነ"
 
 #: ../data/caja-image-resize.ui.h:2 ../data/caja-image-rotate.ui.h:2
 msgid "<b>Filename</b>"
-msgstr "<b>Название Файла</b>"
+msgstr "<b>የፋይል ስም</b>"
 
 #: ../data/caja-image-resize.ui.h:3
 msgid "<b>Image Size</b>"
-msgstr "<b>Размер Изображения</b>"
+msgstr "<b>የምስል መጠን</b>"
 
 #: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
 msgid "Append"
-msgstr "Добавить"
+msgstr "መጨመሪያ"
 
 #: ../data/caja-image-resize.ui.h:5
 msgid "Custom size:"
-msgstr "Установка размера:"
+msgstr ""
 
 #: ../data/caja-image-resize.ui.h:6
 msgid "Height:"
-msgstr "Высота:"
+msgstr "እርዝመት :"
 
 #: ../data/caja-image-resize.ui.h:7
 msgid "Resize Images"
-msgstr "Мас_штабировать изображения"
+msgstr "ምስሎችን እንደገና መመጠኛ "
 
 #: ../data/caja-image-resize.ui.h:8
 msgid "Resize in place"
-msgstr "Масштабировать и заменить файлы"
+msgstr ""
 
 #: ../data/caja-image-resize.ui.h:9
 msgid "Scale:"
-msgstr "Масштаб:"
+msgstr "መጠን :"
 
 #: ../data/caja-image-resize.ui.h:10
 msgid "Select a size:"
-msgstr "Выберите размер:"
+msgstr "መጠን ይምረጡ :"
 
 #: ../data/caja-image-resize.ui.h:11
 msgid "Width:"
-msgstr "Ширина:"
+msgstr "ስፋት :"
 
 #: ../data/caja-image-resize.ui.h:12
 msgid "_Resize"
-msgstr "_Изменить размер"
+msgstr "_እንደገና መመጠኛ "
 
 #: ../data/caja-image-resize.ui.h:13
 msgid "percent"
-msgstr "процент"
+msgstr ""
 
 #: ../data/caja-image-resize.ui.h:14
 msgid "pixels"
-msgstr "пикселей"
+msgstr "ፒክስልስ "
 
 #: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
 msgid "to file title"
-msgstr "к названию файла"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:1
 msgid ".rotated"
-msgstr ".перевернут"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:3
 msgid "<b>Image Rotation</b>"
-msgstr "<b>Вращение изображения</b>"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:5
 msgid "Custom angle:"
-msgstr "Пользовательский угол:"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:6
 msgid "Rotate Images"
-msgstr "Вращать изображения"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:7
 msgid "Rotate in place"
-msgstr "Поворот на месте"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:8
 msgid "Select an angle:"
-msgstr "Выберите угол:"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:9
 msgid "_Rotate"
-msgstr "_Вращать"
+msgstr ""
 
 #: ../data/caja-image-rotate.ui.h:10
 msgid "degrees clockwise"
-msgstr "градусов по часовой"
+msgstr ""
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "Мас_штабировать изображения..."
+msgstr "ምስሎችን _እንደገና መመጠኛ ..."
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
-msgstr "Масштабировать все выбранные изображения"
+msgstr "የተመረጡትን ምስሎች እንደገና መመጠኛ "
 
 #: ../src/caja-image-converter.c:130
 msgid "Ro_tate Images..."
-msgstr "Вр_ащать изображения..."
+msgstr ""
 
 #: ../src/caja-image-converter.c:131
 msgid "Rotate each selected image"
-msgstr "Вращать каждое выбранное изображение"
+msgstr ""
 
 #: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
-msgstr "_Пропустить"
+msgstr "_መዝለያ"
 
 #: ../src/caja-image-resizer.c:213 ../src/caja-image-rotator.c:210
 msgid "_Retry"
-msgstr "По_вторить"
+msgstr "_እንደገና መሞከሪያ"
 
 #: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
-msgstr "Масштабируется изображение: %d из %d"
+msgstr "ምስሎችን እንደገና መመጠኛ : %d ከ %d"
 
 #: ../src/caja-image-resizer.c:296
 #, c-format
 msgid "<i>Resizing \"%s\"</i>"
-msgstr "<i>Масштабирование \"%s\"</i>"
+msgstr "<i>እንደገና መመጠኛ \"%s\"</i>"
 
 #: ../src/caja-image-resizer.c:314 ../src/caja-image-rotator.c:313
 msgid "Please enter a valid filename suffix!"
-msgstr "Пожалуйста, введите действительное расширение для файла!"
+msgstr ""
 
 #: ../src/caja-image-rotator.c:290
 #, c-format
 msgid "Rotating image: %d of %d"
-msgstr "Вращение изображения: %d от %d"
+msgstr ""
 
 #: ../src/caja-image-rotator.c:295
 #, c-format
 msgid "<i>Rotating \"%s\"</i>"
-msgstr "<i>Вращение «%s»</i>"
+msgstr ""
