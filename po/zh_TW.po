@@ -28,7 +28,7 @@ msgstr "<b>檔名</b>"
 
 #: ../data/caja-image-resize.ui.h:3
 msgid "<b>Image Size</b>"
-msgstr "<b>圖像大小</b>"
+msgstr "<b>圖片大小</b>"
 
 #: ../data/caja-image-resize.ui.h:4 ../data/caja-image-rotate.ui.h:4
 msgid "Append"
@@ -44,15 +44,15 @@ msgstr "高度："
 
 #: ../data/caja-image-resize.ui.h:7
 msgid "Resize Images"
-msgstr "調整圖像大小"
+msgstr "調整圖片大小"
 
 #: ../data/caja-image-resize.ui.h:8
 msgid "Resize in place"
-msgstr "適當地調整大小"
+msgstr "覆寫原檔名"
 
 #: ../data/caja-image-resize.ui.h:9
 msgid "Scale:"
-msgstr "尺度："
+msgstr "比例："
 
 #: ../data/caja-image-resize.ui.h:10
 msgid "Select a size:"
@@ -76,7 +76,7 @@ msgstr "像素"
 
 #: ../data/caja-image-resize.ui.h:15 ../data/caja-image-rotate.ui.h:11
 msgid "to file title"
-msgstr "目標檔案名稱"
+msgstr "到檔名尾端"
 
 #: ../data/caja-image-rotate.ui.h:1
 msgid ".rotated"
@@ -84,7 +84,7 @@ msgstr ".rotated"
 
 #: ../data/caja-image-rotate.ui.h:3
 msgid "<b>Image Rotation</b>"
-msgstr "<b>圖像旋轉</b>"
+msgstr "<b>旋轉圖片</b>"
 
 #: ../data/caja-image-rotate.ui.h:5
 msgid "Custom angle:"
@@ -92,11 +92,11 @@ msgstr "自訂角度："
 
 #: ../data/caja-image-rotate.ui.h:6
 msgid "Rotate Images"
-msgstr "旋轉圖像"
+msgstr "旋轉圖片"
 
 #: ../data/caja-image-rotate.ui.h:7
 msgid "Rotate in place"
-msgstr "適當地旋轉"
+msgstr "覆寫原檔名"
 
 #: ../data/caja-image-rotate.ui.h:8
 msgid "Select an angle:"
@@ -112,19 +112,19 @@ msgstr "順時針角度"
 
 #: ../src/caja-image-converter.c:120
 msgid "_Resize Images..."
-msgstr "調整圖像大小(_R)…"
+msgstr "調整圖片大小(_R)…"
 
 #: ../src/caja-image-converter.c:121
 msgid "Resize each selected image"
-msgstr "調整每個已選圖像的大小"
+msgstr "調整每個已選圖片的大小"
 
 #: ../src/caja-image-converter.c:130
 msgid "Ro_tate Images..."
-msgstr "旋轉圖像(_T)…"
+msgstr "旋轉圖片(_T)…"
 
 #: ../src/caja-image-converter.c:131
 msgid "Rotate each selected image"
-msgstr "旋轉每個已選圖像"
+msgstr "旋轉每個已選圖片"
 
 #: ../src/caja-image-resizer.c:211 ../src/caja-image-rotator.c:208
 msgid "_Skip"
@@ -137,7 +137,7 @@ msgstr "重試(_R)"
 #: ../src/caja-image-resizer.c:291
 #, c-format
 msgid "Resizing image: %d of %d"
-msgstr "調整圖像大小：%2$d 中的 %1$d"
+msgstr "調整圖片大小：%2$d 中的 %1$d"
 
 #: ../src/caja-image-resizer.c:296
 #, c-format
@@ -151,7 +151,7 @@ msgstr "請輸入有效副檔名！"
 #: ../src/caja-image-rotator.c:290
 #, c-format
 msgid "Rotating image: %d of %d"
-msgstr "旋轉圖像：%2$d 中的 %1$d"
+msgstr "旋轉圖片：%2$d 中的 %1$d"
 
 #: ../src/caja-image-rotator.c:295
 #, c-format
